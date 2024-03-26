@@ -1,15 +1,15 @@
 ### 👋 Hi, I’m @czubaker
-- 👀 I’m interested in Web/Mobile development, drones, languages, and.. yoyos.
-- 🌱 I’m currently learning expressJS, github skills guides, a piece of Python, and a bit of Swift.
-- 📫 How to reach me ...
+👀 I’m interested in Web/Mobile development, drones, languages, and.. yoyos.
+🌱 I’m currently learning expressJS, github skills guides, a piece of Python, and a bit of Swift.
+📫 How to reach me ...
 
-[LinkedIn 💼](https://linkedin.com/in/czubaker)
+- [💼 LinkedIn](https://linkedin.com/in/czubaker)
 
-[Twitter 🐦](https://twitter.com/czubaker)
+- [🐦 Twitter](https://twitter.com/czubaker)
 
-[Website 🌍](https://google.com/)
+- [🌍 Website](https://google.com/)
 
-[Email 📬](mailto:czubaker@gmail.com)
+- [📬 Email](mailto:czubaker@gmail.com)
 
 
 
