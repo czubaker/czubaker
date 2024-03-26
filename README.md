@@ -3,15 +3,21 @@
 
 🌱 I’m currently learning expressJS, github skills guides, a piece of Python, and a bit of Swift.
 
-📫 How to reach me ...
+🔗 My links:
+
+- [📬 Email](mailto:czubaker@gmail.com)
+
+- [🌍 Website](https://google.com/)
 
 - [💼 LinkedIn](https://linkedin.com/in/czubaker)
 
 - [🐦 Twitter](https://twitter.com/czubaker)
 
-- [🌍 Website](https://google.com/)
+- [🦉 Duolingo](https://www.duolingo.com/profile/Czubaker?via=share_profile)
 
-- [📬 Email](mailto:czubaker@gmail.com)
+
+
+
 
 
 
